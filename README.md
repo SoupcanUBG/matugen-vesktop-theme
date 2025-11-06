@@ -12,5 +12,5 @@ input_path = '~/.config/matugen/templates/vesktop/theme.css'
 output_path = '~/.config/vesktop/themes/theme.css'
 ```
 
-hi
+and download the [theme.css](https://github.com/SoupcanUBG/matugen-vesktop-theme/blob/main/theme.css)
 

@@ -6,7 +6,7 @@
 */
 
 
-@import url('https://github.com/SoupcanUBG/matugen-vesktop-theme/blob/main/build.css');
+@import url('https://raw.githubusercontent.com/SoupcanUBG/matugen-vesktop-theme/refs/heads/main/build.css');
 
 :root {
 	--font: 'figtree';

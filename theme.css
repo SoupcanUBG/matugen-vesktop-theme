@@ -6,7 +6,7 @@
 */
 
 
-@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+@import url('https://github.com/SoupcanUBG/matugen-vesktop-theme/blob/main/build.css');
 
 :root {
 	--font: 'figtree';
@@ -57,7 +57,7 @@
 
 	--discord-icon: none;
 	--moon-icon: block;
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); 
+	--moon-icon-url: url('https://raw.githubusercontent.com/SoupcanUBG/matugen-vesktop-theme/refs/heads/main/moon.svg'); 
 	--moon-icon-size: auto;
 
 	--login-bg-filter: saturate(0.3) hue-rotate(-15deg) brightness(0.4); 

@@ -14,7 +14,7 @@ output_path = '~/.config/vesktop/themes/theme.css'
 
 and then download the [theme.css](https://github.com/SoupcanUBG/matugen-vesktop-theme/blob/main/theme.css)           
 
-and put it in `~/.config/vesktop/themes/`, then enable it in vesktop and everything should work if not create a github issue
+and put it in `~/.config/matugen/templates/vesktop/theme.css`, then reload matugen and enable the theme in vesktop and everything should work if not create a github issue
 
 
 
